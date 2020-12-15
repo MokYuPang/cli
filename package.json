@@ -1,18 +1,18 @@
 {
-  "name": "kw-cli",
-  "version": "1.0.0",
+  "name": "keywa-cli",
+  "version": "1.0.1",
   "description": "keywa fe cli",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "bin": {
-    "kw-cli": "./bin/index.js"
+    "keywa": "./bin/index.js"
   },
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/ljrong/kw-cli.git"
+    "url": "https://github.com/keywaFE/cli.git"
   },
   "keywords": [
     "keywa",
