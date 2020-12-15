@@ -1,0 +1,40 @@
+{
+  "name": "kw-cli",
+  "version": "1.0.0",
+  "description": "keywa fe cli",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "kw-cli": "./bin/index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/ljrong/kw-cli.git"
+  },
+  "keywords": [
+    "keywa",
+    "cli"
+  ],
+  "author": "ljrong",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.1.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^9.0.1",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^4.0.0",
+    "nodemon": "^2.0.5",
+    "ora": "^5.1.0",
+    "rimraf": "^3.0.2",
+    "semver": "^7.3.2",
+    "shelljs": "^0.8.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
