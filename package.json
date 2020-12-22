@@ -1,6 +1,6 @@
 {
   "name": "keywa-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "keywa fe cli",
   "main": "index.js",
   "directories": {
